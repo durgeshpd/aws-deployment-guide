@@ -12,7 +12,7 @@
    ```
 4. SSH into the EC2 instance:
    ```bash
-   ssh -i "~/ec2-keys/devConn-secret.pem" ubuntu@ec2-51-21-190-33.eu-north-1.compute.amazonaws.com
+  ssh -i "~/ec2-keys/your-key.pem" ubuntu@ec2-your-ip.compute.amazonaws.com
    ```
 
 ---
